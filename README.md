@@ -77,3 +77,7 @@ An independent learning implementation of a Flask + MySQL two-tier application.
 ## License
 
 No license has been added to this repository yet.
+
+## Application Screenshot
+
+![Flask + MySQL Application](screenshots/app-home.png)
